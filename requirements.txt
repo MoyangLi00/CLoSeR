@@ -1,0 +1,21 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch==2.7.1+cu128
+torchvision==0.22.1+cu128
+numpy==1.26.4
+pillow
+opencv-python
+plyfile
+huggingface_hub
+safetensors
+natsort
+einops
+gradio
+trimesh
+matplotlib
+scipy
+viser
+roma
+evo
+accelerate
+gtsam
