@@ -17,7 +17,7 @@
 
 </div>
 
-**CLoSeR** revisits loop closure for streaming reconstruction foundation models, enabling accurate, drift-free, kilometer-scale reconstruction.
+> **TL;DR** — CLoSeR brings loop closure to streaming reconstruction. Loop-conditioned windows let the backbone itself estimate loop constraints while keeping local context and scale, and a lightweight SE(3) pose graph removes drift at kilometer scale.
 
 ## Contents
 - [Installation](#installation)
